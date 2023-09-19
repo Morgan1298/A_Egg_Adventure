@@ -1474,3 +1474,88 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.19-10.45.41:134][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 140 ms)
 [2023.09.19-10.45.41:141][971]AssetCheck: New page: 에셋 저장:  test_animation
 [2023.09.19-10.45.41:142][971]LogContentValidation: Display: /Script/LevelSequence.LevelSequence /Game/SJ_animation/test_animation.test_animation 유효성 검사 중
+[2023.09.19-10.49.40:912][ 66]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Base' 브러시를 찾을 수 없습니다.'
+[2023.09.19-10.49.40:912][ 66]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Mask' 브러시를 찾을 수 없습니다.'
+[2023.09.19-10.49.43:502][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.FbxScene_main_clothes_rigging_final:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.FbxScene_main_clothes_rigging_final_C' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.FbxScene_main_clothes_rigging_final:EventGraph.K2Node_Event_0' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.FbxScene_main_clothes_rigging_final:EventGraph.K2Node_Event_1' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.FbxScene_main_clothes_rigging_final:EventGraph.K2Node_Event_2' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.SKEL_FbxScene_main_clothes_rigging_final_C:ReceiveBeginPlay' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.SKEL_FbxScene_main_clothes_rigging_final_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.SKEL_FbxScene_main_clothes_rigging_final_C:ReceiveTick' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.SKEL_FbxScene_main_clothes_rigging_final_C:UserConstructionScript' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:504][338]LogMetaData: Removing '/Game/Asset/rig/FbxScene_main_clothes_rigging_final.SKEL_FbxScene_main_clothes_rigging_final_C' ref from Metadata '/Game/rig/FbxScene_main_clothes_rigging_final.PackageMetaData'
+[2023.09.19-10.49.43:572][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.19-10.49.43:598][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/rig/_16_VRayMtl3SG_001" FILE="../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/_16_VRayMtl3SG_001.uasset" SILENT=true
+[2023.09.19-10.49.43:599][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/_16_VRayMtl3SG_001
+[2023.09.19-10.49.43:599][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/_16_VRayMtl3SG_0015DA9F2144FCD9AD96141D99A34D56FC4.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/_16_VRayMtl3SG_001.uasset'
+[2023.09.19-10.49.43:602][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/rig/_16_VRayMtl2SG_001" FILE="../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/_16_VRayMtl2SG_001.uasset" SILENT=true
+[2023.09.19-10.49.43:603][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/_16_VRayMtl2SG_001
+[2023.09.19-10.49.43:603][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/_16_VRayMtl2SG_001710385CF483BBF317D3C1384347993FD.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/_16_VRayMtl2SG_001.uasset'
+[2023.09.19-10.49.43:603][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/rig/_16_VRayMtl1SG_001" FILE="../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/_16_VRayMtl1SG_001.uasset" SILENT=true
+[2023.09.19-10.49.43:604][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/_16_VRayMtl1SG_001
+[2023.09.19-10.49.43:604][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/_16_VRayMtl1SG_0012FEBDE6343984D23285A408E81F4DC97.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/_16_VRayMtl1SG_001.uasset'
+[2023.09.19-10.49.43:608][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/main_clothes_rigging_final
+[2023.09.19-10.49.43:608][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/main_clothes_rigging_finalFD3BC95142ADB34BD0F14BBC24C55482.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/main_clothes_rigging_final.uasset'
+[2023.09.19-10.49.43:610][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/initialShadingGroup_006
+[2023.09.19-10.49.43:610][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/initialShadingGroup_0061267A2044881905EE279C08177F0E234.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/initialShadingGroup_006.uasset'
+[2023.09.19-10.49.43:617][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/FbxScene_main_clothes_rigging_final
+[2023.09.19-10.49.43:617][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/FbxScene_main_clothes_rigging_fi9753816249054087E37F6481C24F68A8.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/FbxScene_main_clothes_rigging_final.uasset'
+[2023.09.19-10.49.43:624][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/eggbody_F_001_Skeleton
+[2023.09.19-10.49.43:624][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/eggbody_F_001_Skeleton5DB538DC45CB16932C3C2F9800014C50.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/eggbody_F_001_Skeleton.uasset'
+[2023.09.19-10.49.43:626][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/rig/eggbody_F_001" FILE="../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/eggbody_F_001.uasset" SILENT=true
+[2023.09.19-10.49.44:610][338]LogSavePackage: Moving output files for package: /Game/Asset/rig/eggbody_F_001
+[2023.09.19-10.49.44:610][338]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/eggbody_F_001B00E55ED420F865495895ABCBE6FC8DE.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/rig/eggbody_F_001.uasset'
+[2023.09.19-10.49.44:618][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.04 sec (total: 1.18 sec)
+[2023.09.19-10.49.44:698][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.09.19-10.49.44:711][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.09.19-10.49.44:725][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.19-10.49.44:787][338]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Asset/rig/FbxScene_main_clothes_rigging_final.FbxScene_main_clothes_rigging_final 유효성 검사 중
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/Engine.SkeletalMesh /Game/Asset/rig/eggbody_F_001.eggbody_F_001 유효성 검사 중
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/Engine.Skeleton /Game/Asset/rig/eggbody_F_001_Skeleton.eggbody_F_001_Skeleton 유효성 검사 중
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/Engine.Material /Game/Asset/rig/initialShadingGroup_006.initialShadingGroup_006 유효성 검사 중
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/UnrealEd.FbxSceneImportData /Game/Asset/rig/main_clothes_rigging_final.main_clothes_rigging_final 유효성 검사 중
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/Engine.Material /Game/Asset/rig/_16_VRayMtl1SG_001._16_VRayMtl1SG_001 유효성 검사 중
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/Engine.Material /Game/Asset/rig/_16_VRayMtl2SG_001._16_VRayMtl2SG_001 유효성 검사 중
+[2023.09.19-10.49.44:788][338]LogContentValidation: Display: /Script/Engine.Material /Game/Asset/rig/_16_VRayMtl3SG_001._16_VRayMtl3SG_001 유효성 검사 중
+[2023.09.19-10.49.44:969][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-10.49.44:988][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-10.49.45:040][345]LogShaderCompilers: Display: ================================================
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: Total job queries 144, among them cache hits 27 (18.75%)
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: Tracking 114 distinct input hashes that result in 73 distinct outputs (64.04%)
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: RAM used: 2.70 MiB of 1.60 GiB budget. Usage: 0.16%
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.19-10.49.45:041][345]LogShaderCompilers: Display: ================================================
+[2023.09.19-10.49.49:320][738]Cmd: TRANSACTION UNDO
+[2023.09.19-10.49.49:321][738]LogEditorTransaction: Undo 컨트롤 이동
+[2023.09.19-10.50.03:837][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.19-10.50.03:887][ 44]LogSavePackage: Moving output files for package: /Game/Asset/SJ_animation/test_animation
+[2023.09.19-10.50.03:887][ 44]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/test_animationF88D8BB742911A996CE9A1BD84AEFB49.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/Asset/SJ_animation/test_animation.uasset'
+[2023.09.19-10.50.03:888][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SJ_animation/test_animation" FILE="../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/SJ_animation/test_animation.uasset" SILENT=true
+[2023.09.19-10.50.03:889][ 44]LogSavePackage: Moving output files for package: /Game/SJ_animation/test_animation
+[2023.09.19-10.50.03:890][ 44]LogSavePackage: Moving '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Saved/test_animation05FF757A4E4C66A6D1B82AB06F21EE17.tmp' to '../../../../../../Users/seung/Desktop/egg drop/GitHub/A_Egg_Adventure/Content/SJ_animation/test_animation.uasset'
+[2023.09.19-10.50.03:897][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.24 sec)
+[2023.09.19-10.50.03:915][ 44]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.09.19-10.50.03:916][ 44]LogContentValidation: Display: /Script/CoreUObject.ObjectRedirector /Game/SJ_animation/test_animation.test_animation 유효성 검사 중
+[2023.09.19-10.50.03:916][ 44]LogContentValidation: Display: /Script/LevelSequence.LevelSequence /Game/Asset/SJ_animation/test_animation.test_animation 유효성 검사 중
+[2023.09.19-10.50.18:452][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.09.19-10.50.19:554][364]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.19-10.50.19:567][364]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SJ_animation/test_animation.test_animation
+	Asset Type: ObjectRedirector
+[2023.09.19-10.50.19:909][364]LogStaticMesh: Warning: Invalid material [MI_Glass] used on Nanite static mesh [Kitchen_PUPx4_normal_bottle] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2023.09.19-10.50.19:954][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.19-10.50.19:966][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.19-10.50.19:978][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.19-10.50.21:792][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-10.50.21:813][497]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.FbxScene_main_clothes_rigging_final_C_0.DefaultSceneRoot'|hpp(이,가) 스태틱  (in blueprint "FbxScene_main_clothes_rigging_final") 아니기 때문에 스태틱인 '/Engine/Transient.World_7:PersistentLevel.FbxScene_main_clothes_rigging_final_C_0.eggbody_F_001'|hpp(을,를) 어태치할 수 없습니다. 중단하고 있습니다.
+[2023.09.19-10.50.21:813][497]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.FbxScene_main_clothes_rigging_final_C_0.DefaultSceneRoot'|hpp(이,가) 스태틱  (in blueprint "FbxScene_main_clothes_rigging_final") 아니기 때문에 스태틱인 '/Engine/Transient.World_7:PersistentLevel.FbxScene_main_clothes_rigging_final_C_0.rig'|hpp(을,를) 어태치할 수 없습니다. 중단하고 있습니다.
+[2023.09.19-10.50.21:813][497]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.FbxScene_main_clothes_rigging_final_C_0.DefaultSceneRoot'|hpp(이,가) 스태틱  (in blueprint "FbxScene_main_clothes_rigging_final") 아니기 때문에 스태틱인 '/Engine/Transient.World_7:PersistentLevel.FbxScene_main_clothes_rigging_final_C_0.rig_001'|hpp(을,를) 어태치할 수 없습니다. 중단하고 있습니다.
+[2023.09.19-10.50.21:825][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.19-10.50.21:854][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
